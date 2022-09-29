@@ -29,7 +29,7 @@ A branch is a copy of a root code that allows developers to “branch” out and
 Clone
 Allows for a complete copy of a online repository to be stored in a local repository
 Commit
-It processes and demonstrates the latest changes of the source code
+Command that allows to easily see the changes made and compare them to the principal code
 Fetch
 Used to retrieve new work done by other people. It searches through existing branches and allows for an user to revise all the different branches individually.
 GIT
@@ -39,7 +39,7 @@ Online hosting server that allows developers to fully store, manage, and develop
 Merge
 Command that combines several commits into one general one
 Merge Conflict
-When git is unable to resolve the differences between two commits
+When git is unable to combine commits together, too many differences/changes
 Push
 Used to upload local repository to the remote github repository
 Pull
@@ -47,6 +47,7 @@ Fetch and download the content from a remote repository to update the local file
 Remote
 Technology that allows users to manage devices, processes, tools and resources on a network from a different location
 Repository
-Place where things are stored. 
+Place where things are stored.  In this case, cloud storage in which all the project files will be stored
 
 References:
+Google.com and my own definition of the terms
